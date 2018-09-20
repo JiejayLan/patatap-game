@@ -7,7 +7,7 @@ Submitted by: **Jie Lan**
 Time spent: **3** hours spent in total
 
 ## User Stories
-* Different keys are links with different sounds.
+* Different keys are linked with different sounds.
 * User can click the keyboard to play music.
 * When a key was pressed, a gradient circle will show up.
 
