@@ -2,9 +2,7 @@
 
 **patatap-game** is a music game created by html, css, javescript, howler.js and paper.js.
 
-Submitted by: **Jie Lan**
-
-Time spent: **3** hours spent in total
+website:https://jiejaylan.github.io/patatap-game/
 
 ## User Stories
 * Different keys are linked with different sounds.
